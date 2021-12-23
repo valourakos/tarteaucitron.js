@@ -21,8 +21,8 @@ tarteaucitron.lang = {
 
     "info": "Προστασία των προσωπικών σας δεδομένων",
     "disclaimer": "Επιτρέποντας αυτές τις υπηρεσίες που παρέχονται από τρίτους, αποδέχεστε τα &quot;μπισκότα&quot; (cookies) τους καθώς και τη χρήση τεχνολογιών παρακολούθησης που είναι απαραίτητες για τη λειτουργία τους.",
-    "allow": "Επέτρεψε",
-    "deny": "Απόρριψε",
+    "allow": "Επίτρεψε",
+    "deny": "Απόρριπτε",
     "noCookie": "Η υπηρεσία αυτή δε χρησιμοποιεί &quot;μπισκότα&quot; (cookies).",
     "useCookie": "Η υπηρεσία αυτή μπορεί να αποθηκεύσει ",
     "useCookieCurrent": "Η υπηρεσία αυτή έχει αποθηκεύσει ",
@@ -37,14 +37,14 @@ tarteaucitron.lang = {
     "ourSite": "στον ιστότοπο μας",
     "modalWindow": "(modal παράθυρο)",
     "newWindow": "(νέο παράθυρο)",
-    "allowAll": "Επέτρεψε όλα τα &quot;μπισκότα&quot; (cookies)",
-    "denyAll": "Απόρριψε όλα τα &quot;μπισκότα&quot; (cookies)",
+    "allowAll": "Επίτρεψε όλα τα &quot;μπισκότα&quot; (cookies)",
+    "denyAll": "Απόρριπτε όλα τα &quot;μπισκότα&quot; (cookies)",
 
     "icon": "Cookies",
     
-    "fallback": "είναι απενεργοποιημένο.",
-    "allowed": "επιτρέπεται",
-    "disallowed": "απαγορεύεται",
+    "fallback": "Είναι απενεργοποιημένο.",
+    "allowed": "Επιτρέπεται",
+    "disallowed": "Απαγορεύεται",
 
     "ads": {
         "title": "Διαφημιστικό Δίκτυο",
@@ -79,6 +79,6 @@ tarteaucitron.lang = {
         "details": "Υπηρεσίες που παρουσιάζουν άλλο περιεχόμενο."
     },
     
-    "mandatoryTitle": "Mandatory cookies",
-    "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+    "mandatoryTitle": "Υποχρεωτικά cookies",
+    "mandatoryText": "Αυτός ο ιστότοπος χρησιμοποιεί cookies που είναι απαραίτητα για τη σωστή λειτουργία του, τα οποία δεν μπορούν να απενεργοποιηθούν."
 };
